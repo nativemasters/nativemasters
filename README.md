@@ -1,4 +1,4 @@
-# We Build Developers
+# We Build Developers.
 
 - Learn React & React Native w/ JavaScript & TypeScript
 - Build Beautiful & Professional Mobile Applications
